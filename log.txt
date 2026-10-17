@@ -1,0 +1,9 @@
+*   ea69e16 Merge feature-b
+|\  
+| * a37a0d4 Update line 3 on feature-b
+| * 11859a5 Add line 3 in feature-b
+* | 90a2ce2 Update line 3 on main
+|/  
+* 52d8ed3 Add line 4 in feature-a
+* 44e1580 Add line 3 in feature-a
+* 3868ddf Initial commit
